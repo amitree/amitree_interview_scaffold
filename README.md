@@ -1,24 +1,14 @@
 # README
+This is a basic Rails project, with a `User` model.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## To get started:
+* Clone this repo
+* `cd amitree_interview_scaffold`
+* `rake db:migrate`
+* `rails server`
+* Go to [localhost:3000](localhost:3000)
 
-Things you may want to cover:
+## Requirements
+* `Ruby 2.6.2`
+* `Rails 5.2.3`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
